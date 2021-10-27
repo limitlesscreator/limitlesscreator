@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://limitlesscreator.tech"><img src="https://github.com/vlad0428/vlad0428/blob/master/assets/first1.gif" width="68%"></img><img src="https://github.com/vlad0428/vlad0428/blob/master/assets/right.gif" width="31%"></img></a>
+<a href="https://limitlesscreator.github.io/visitcard/"><img src="https://github.com/vlad0428/vlad0428/blob/master/assets/first1.gif" width="68%"></img><img src="https://github.com/vlad0428/vlad0428/blob/master/assets/right.gif" width="31%"></img></a>
 </p>
 
 
@@ -10,3 +10,7 @@
 </p>
 
 
+<p align="center">
+<a  href="https://drive.google.com/file/d/1HfpbtMOL_8mDnGyWOBdmie4-O36iSqjv/view?usp=sharing">CV📋</a>
+
+</p>
