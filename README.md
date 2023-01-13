@@ -24,6 +24,6 @@
 </p>
 
 <h1 align="center">
-<a  href="https://drive.google.com/file/d/1HfpbtMOL_8mDnGyWOBdmie4-O36iSqjv/view?usp=sharing">CV📋</a>
+<!-- <a  href="https://drive.google.com/file/d/1HfpbtMOL_8mDnGyWOBdmie4-O36iSqjv/view?usp=sharing">CV📋</a> -->
 
 </h1>
